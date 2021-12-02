@@ -216,7 +216,7 @@ header p {
   margin-top: -30px;
 }
 .timeline-item .timeline-img-header {
-  height: 500px;
+  height: 400px;
   background: url("MMT.jpg") center center no-repeat;
   background-size: cover;
 }
@@ -227,12 +227,12 @@ header p {
   left: 20px;
 }
 .timeline-item .timeline-img-header2 {
-  height: 500px;
+  height: 400px;
   background: url("pict.jpg") center center no-repeat;
   background-size: cover;
 }
 .timeline-item .timeline-img-header3 {
-  height: 500px;
+  height: 400px;
   background: url("KnightofFall.jpg") center center no-repeat;
   background-size: cover;
 }
@@ -242,7 +242,7 @@ header p {
   background-size: cover;
 }
 .timeline-item .timeline-img-header5 {
-  height: 500px;
+  height: 400px;
   background: url("SlamPoetry.jpg") center center no-repeat;
   background-size: cover;
 }
@@ -252,7 +252,7 @@ header p {
   background-size: cover;
 }
 .timeline-item .timeline-img-header7 {
-  height: 500px;
+  height: 400px;
   background: url("MurderMystery.jpg") center center no-repeat;
   background-size: cover;
 }
